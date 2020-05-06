@@ -22,8 +22,8 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  my_array = ["Art","Music","Food","Vibes"]
-  my_array.shift("Art")
+  remove_element_from_start_of_array = ["Art","Music","Food","Vibes"]
+  remove_element_from_start_of_array("Art")
 end
 
 def retrieve_element_from_index(array, index_number)
