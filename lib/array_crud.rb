@@ -27,8 +27,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  my_array = ["Art","Music","Food","Vibes"]
-  my_array[1]
+  retrieve_element_from_index = ["Art","Music","Food","Vibes"]
+  retrieve_element_from_index[am]
 end
 
 def retrieve_first_element_from_array(array)
