@@ -37,6 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  my_array = ["Art","Music","Food","Vibes"]
-  my_array[-1]
+  retrieve_last_element_from_array= ["Art","Music","Food","arrays!"]
+  retrieve_last_element_from_array[-1]
 end
